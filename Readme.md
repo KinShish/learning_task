@@ -2,4 +2,4 @@
 
 *На заголовки, жирность, курсив*
 
-![Image alt](repository/img/1.jpg)
+![Image alt](img/1.jpg)
