@@ -2,4 +2,4 @@
 
 *На заголовки, жирность, курсив*
 
-![Image alt](https://github.com/{username}/{repository}/img/1.jpg)
+![Image alt](repository/img/1.jpg)
