@@ -23,3 +23,5 @@
 1. Повторите страницу по данному образцу:
 
     ![Повторите страницу по данному по образцу](img/4.jpg)
+    
+[Назад](https://github.com/KinShish/learning_task_1/tree/master/1) ... [Далее](https://github.com/KinShish/learning_task_1/tree/master/3)    
