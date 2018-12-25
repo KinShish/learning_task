@@ -1,6 +1,6 @@
     Задачи для решения
     
-Все изменения проводить над текстом из [задания 1.4](https://github.com/KinShish/learning_task_1/tree/master/1)
+Все изменения проводить над текстом из [предыдущего задания](https://github.com/KinShish/learning_task_1/tree/master/4)
 
 **На цвета**
 
@@ -123,4 +123,4 @@
 
    ![Повторите страницу по данному по образцу](img/3.jpg)        
    
-[Назад](https://github.com/KinShish/learning_task_1/tree/master/2) ... [Далее](https://github.com/KinShish/learning_task_1/tree/master/4)    
+[Назад](https://github.com/KinShish/learning_task_1/tree/master/4)    
