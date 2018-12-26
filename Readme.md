@@ -5,3 +5,5 @@
 3. [Задание 3](https://github.com/KinShish/learning_task_1/tree/master/3);
 4. [Задание 4](https://github.com/KinShish/learning_task_1/tree/master/4);
 5. [Задание 5](https://github.com/KinShish/learning_task_1/tree/master/5);
+5. [Задание 6](https://github.com/KinShish/learning_task_1/tree/master/6);
+5. [Задание 7](https://github.com/KinShish/learning_task_1/tree/master/7);

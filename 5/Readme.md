@@ -123,4 +123,4 @@
 
    ![Повторите страницу по данному по образцу](img/3.jpg)        
    
-[Назад](https://github.com/KinShish/learning_task_1/tree/master/4)    
+[Назад](https://github.com/KinShish/learning_task_1/tree/master/4) ... [Далее](https://github.com/KinShish/learning_task_1/tree/master/6)
