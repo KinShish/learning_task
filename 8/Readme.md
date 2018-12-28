@@ -22,4 +22,4 @@
 
    ![Повторите страницу по данному по образцу](img/fon.jpg) ![Повторите страницу по данному по образцу](img/fon1.jpg) ![Повторите страницу по данному по образцу](img/space.jpg)   
    
-[Назад](https://github.com/KinShish/learning_task_1/tree/master/6)
+[Назад](https://github.com/KinShish/learning_task_1/tree/master/7)

@@ -57,4 +57,4 @@
    ![ссылка](img/9.jpg)        
 
    
-[Назад](https://github.com/KinShish/learning_task_1/tree/master/6)
+[Назад](https://github.com/KinShish/learning_task_1/tree/master/6) ... [Далее](https://github.com/KinShish/learning_task_1/tree/master/8)
