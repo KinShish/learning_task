@@ -34,7 +34,7 @@
     
     ![Повторите страницу по данному по образцу](img/5.jpg)
 
-4. Повторите страницу по данному по образцу.
+5. Повторите страницу по данному по образцу.
     
     ![Повторите страницу по данному по образцу](img/6.jpg)    
    
@@ -43,4 +43,4 @@
 
    ![Повторите страницу по данному по образцу](img/obezyana.jpg)    
    
-[Назад](https://github.com/KinShish/learning_task_1/tree/master/7) ... [Далее](https://github.com/KinShish/learning_task_1/tree/master/9)
+[Назад](https://github.com/KinShish/learning_task_1/tree/master/8) ... [Далее](https://github.com/KinShish/learning_task_1/tree/master/10)
