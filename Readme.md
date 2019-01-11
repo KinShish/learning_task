@@ -7,4 +7,5 @@
 5. [Задание 5](https://github.com/KinShish/learning_task_1/tree/master/5);
 5. [Задание 6](https://github.com/KinShish/learning_task_1/tree/master/6);
 5. [Задание 7](https://github.com/KinShish/learning_task_1/tree/master/7);
-8. [Задание 8](https://github.com/KinShish/learning_task_1/tree/master/8)
+8. [Задание 8](https://github.com/KinShish/learning_task_1/tree/master/8);
+9. [Задание 9](https://github.com/KinShish/learning_task_1/tree/master/9).
