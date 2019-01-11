@@ -41,6 +41,6 @@
    
 **Все необходимые изображения**
 
-   ![Повторите страницу по данному по образцу](img/obezyana.jpg)    
+   ![Повторите страницу по данному по образцу](img/obezyana.jpg)    ![Повторите страницу по данному по образцу](img/li.gif)    
    
 [Назад](https://github.com/KinShish/learning_task_1/tree/master/8) ... [Далее](https://github.com/KinShish/learning_task_1/tree/master/10)
