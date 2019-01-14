@@ -10,4 +10,4 @@
 8. [Задание 8](https://github.com/KinShish/learning_task_1/tree/master/8);
 9. [Задание 9](https://github.com/KinShish/learning_task_1/tree/master/9);
 10. [Задание 10](https://github.com/KinShish/learning_task_1/tree/master/10);
-11. [Задание 11](https://github.com/KinShish/learning_task_1/tree/master/11).
+11. [Задание 11](https://github.com/KinShish/learning_task_1/tree/master/11).    
