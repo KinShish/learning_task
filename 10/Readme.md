@@ -145,4 +145,4 @@
    
    ![Повторите страницу по данному по образцу](img/1-h.png) ![Повторите страницу по данному по образцу](img/2-h.png) ![Повторите страницу по данному по образцу](img/3-h.png) ![Повторите страницу по данному по образцу](img/4-h.png) ![Повторите страницу по данному по образцу](img/5-h.png)                   
    
-[Назад](https://github.com/KinShish/learning_task_1/tree/master/9)
+[Назад](https://github.com/KinShish/learning_task_1/tree/master/9) ... [Далее](https://github.com/KinShish/learning_task_1/tree/master/11)
